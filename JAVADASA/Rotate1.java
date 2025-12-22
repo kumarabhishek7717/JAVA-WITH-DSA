@@ -1,4 +1,4 @@
-/* 
+
 public class Rotate1 {
 
     public static void main(String[] args) {
@@ -28,7 +28,7 @@ public class Rotate1 {
 }
 
 
-*/
+
 
 public class Rotate1 {
 
